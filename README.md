@@ -12,6 +12,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MatheusSantosMagnaghi&label=Visitas&color=1F4E8F&style=flat-square" alt="Visitas" />
   <img src="https://img.shields.io/github/followers/MatheusSantosMagnaghi?label=Seguidores&style=flat-square&color=1F4E8F" alt="Seguidores" />
+  <a href="https://github.com/MatheusAndrade1999">
+    <img src="https://img.shields.io/badge/Perfil%20pessoal-MatheusAndrade1999-0A1A33?style=flat-square&logo=github&logoColor=white" alt="Perfil pessoal" />
+  </a>
 </p>
 
 ---
@@ -49,6 +52,14 @@
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusSantosMagnaghi&bg_color=0D1B2A&color=C9D6E3&line=5B9BD5&point=FFFFFF&area=true&area_color=1F4E8F&title_color=5B9BD5&hide_border=false&border_color=1F4E8F&radius=12&custom_title=Atividade%20nos%20%C3%BAltimos%2030%20dias" alt="Atividade" />
+</p>
+
+### 🔗 Também estou em
+
+<p align="center">
+  <a href="https://github.com/MatheusAndrade1999">
+    <img src="https://github-readme-stats.vercel.app/api?username=MatheusAndrade1999&show_icons=true&hide_rank=true&hide=issues,contribs&bg_color=0D1B2A&title_color=5B9BD5&icon_color=5B9BD5&text_color=C9D6E3&border_color=1F4E8F&border_radius=12&locale=pt-br&custom_title=Perfil%20pessoal%20%C2%B7%20MatheusAndrade1999" height="140" alt="Perfil pessoal" />
+  </a>
 </p>
 
 ---
