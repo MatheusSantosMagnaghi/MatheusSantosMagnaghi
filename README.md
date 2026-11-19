@@ -27,15 +27,6 @@
 
 > Portal único com login da empresa e acesso por aplicação. O repositório é privado.
 
-| App | O que faz |
-|---|---|
-| **RNC** | Registro e acompanhamento de não conformidades com clientes, com fotos, aceite e avisos por e-mail |
-| **RNCI** | Controle de não conformidades internas e retrabalho, com aging em horas |
-| **Indicadores** | Painel em modo TV com dados do ERP, atualizado a cada poucos minutos |
-| **PCP e Entregas** | OTD e entregas por nota fiscal, direto do ERP |
-| **Rastreio e Book** | Rastreio de OS e book mensal de qualidade em PDF |
-| **Admin** | Usuários, permissões por app, versões e plantão |
-
 ### 🛠️ Stack
 
 <p align="center">
